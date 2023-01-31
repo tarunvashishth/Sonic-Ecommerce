@@ -7,3 +7,4 @@
 4. User reviews and ratings
 5. Product recommendations.
 
+![image](https://user-images.githubusercontent.com/65185652/215735502-b8ae96b8-e203-449e-b9f2-a5825ae99e53.png)
